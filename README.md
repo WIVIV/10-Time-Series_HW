@@ -10,6 +10,7 @@
 <p align="center">
 <img src="Images/Settle_Price_vs_Trend.png">
 </p>
+
 #### Settle Noise
 <p align="center">
 <img src="Images/Settle_Noise.png">
@@ -69,3 +70,4 @@ Does this model perform better or worse on out-of-sample data compared to in-sam
 * In-sample Root Mean Squared Error (RMSE): 0.5657562717010388
 
 As the Out-of-Sample Root Mean Squared Error is the lowest, the models performs best Out-of-Sample.
+
