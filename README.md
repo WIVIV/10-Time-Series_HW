@@ -14,10 +14,12 @@
 <p align="center">
 <img src="Images/Settle_Noise.png">
 </p>
+
 #### Forecasting Returns using an ARMA Model
 <p align="center">
 <img src="Images/ARMA.png">
 </p>
+
 5 Day Returns Forecast
 <p align="center">
 <img src="Images/5Day_Returns_Forecast.png">
@@ -27,14 +29,17 @@
 <p align="center">
 <img src="Images/ARIMA.png">
 </p>
+
 5 Day Returns Forecast
 <p align="center">
 <img src="Images/5Day_Futures_Price_Forecast.png">
 </p>
+
 #### Volatility Forecasting with GARCH
 <p align="center">
 <img src="Images/GARCH.png">
 </p>
+
 Final Forecast
 <p align="center">
 <img src="Images/Final_Forecast.png">
@@ -57,6 +62,7 @@ First 20 predictions vs the true values
 <p align="center">
 <img src="Images/20_predictions_vs_true_values.png">
 </p>
+
 Does this model perform better or worse on out-of-sample data compared to in-sample data?
 
 * Out-of-Sample Root Mean Squared Error (RMSE): 0.4151933603075715
